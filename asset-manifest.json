@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DesignerReact/static/css/main.c48affa0.css",
+    "main.css": "/DesignerReact/static/css/main.4b20b66e.css",
     "main.js": "/DesignerReact/static/js/main.b000cc2f.js",
     "static/js/787.28cb0dcd.chunk.js": "/DesignerReact/static/js/787.28cb0dcd.chunk.js",
     "static/media/404bg.jpg": "/DesignerReact/static/media/404bg.913d0959ef71131fe70e.jpg",
@@ -11,12 +11,12 @@
     "static/media/Roboto-Light.ttf": "/DesignerReact/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
     "static/media/logo.jpg": "/DesignerReact/static/media/logo.94bfd8d6cc8bbbd4ca71.jpg",
     "index.html": "/DesignerReact/index.html",
-    "main.c48affa0.css.map": "/DesignerReact/static/css/main.c48affa0.css.map",
+    "main.4b20b66e.css.map": "/DesignerReact/static/css/main.4b20b66e.css.map",
     "main.b000cc2f.js.map": "/DesignerReact/static/js/main.b000cc2f.js.map",
     "787.28cb0dcd.chunk.js.map": "/DesignerReact/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c48affa0.css",
+    "static/css/main.4b20b66e.css",
     "static/js/main.b000cc2f.js"
   ]
 }
