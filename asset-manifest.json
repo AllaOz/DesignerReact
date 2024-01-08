@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/DesignerReact/static/css/main.023db675.css",
-    "main.js": "/DesignerReact/static/js/main.0a8230b2.js",
+    "main.css": "/DesignerReact/static/css/main.5f4c11ba.css",
+    "main.js": "/DesignerReact/static/js/main.84b501d7.js",
     "static/js/787.28cb0dcd.chunk.js": "/DesignerReact/static/js/787.28cb0dcd.chunk.js",
+    "static/media/404bg.jpg": "/DesignerReact/static/media/404bg.913d0959ef71131fe70e.jpg",
+    "static/media/404bgmobile.jpg": "/DesignerReact/static/media/404bgmobile.6d976e083f94d9cb3e18.jpg",
     "static/media/Roboto-Medium.ttf": "/DesignerReact/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Light.ttf": "/DesignerReact/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
-    "static/media/404.png": "/DesignerReact/static/media/404.f988982dd86f10c15915.png",
     "static/media/logo.jpg": "/DesignerReact/static/media/logo.94bfd8d6cc8bbbd4ca71.jpg",
     "index.html": "/DesignerReact/index.html",
-    "main.023db675.css.map": "/DesignerReact/static/css/main.023db675.css.map",
-    "main.0a8230b2.js.map": "/DesignerReact/static/js/main.0a8230b2.js.map",
+    "main.5f4c11ba.css.map": "/DesignerReact/static/css/main.5f4c11ba.css.map",
+    "main.84b501d7.js.map": "/DesignerReact/static/js/main.84b501d7.js.map",
     "787.28cb0dcd.chunk.js.map": "/DesignerReact/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.023db675.css",
-    "static/js/main.0a8230b2.js"
+    "static/css/main.5f4c11ba.css",
+    "static/js/main.84b501d7.js"
   ]
 }
