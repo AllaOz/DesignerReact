@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DesignerReact/static/css/main.80f3e4d9.css",
-    "main.js": "/DesignerReact/static/js/main.b487e7ef.js",
+    "main.css": "/DesignerReact/static/css/main.5f129af1.css",
+    "main.js": "/DesignerReact/static/js/main.7687c2a6.js",
     "static/js/787.28cb0dcd.chunk.js": "/DesignerReact/static/js/787.28cb0dcd.chunk.js",
     "static/media/404bg.jpg": "/DesignerReact/static/media/404bg.913d0959ef71131fe70e.jpg",
     "static/media/404bgmobile.jpg": "/DesignerReact/static/media/404bgmobile.6d976e083f94d9cb3e18.jpg",
@@ -10,14 +10,15 @@
     "static/media/PlayfairDisplay-Regular.ttf": "/DesignerReact/static/media/PlayfairDisplay-Regular.6a97b5c64f316f567fa1.ttf",
     "static/media/Roboto-Medium.ttf": "/DesignerReact/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Light.ttf": "/DesignerReact/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/Raleway-Thin.ttf": "/DesignerReact/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
     "static/media/logo.jpg": "/DesignerReact/static/media/logo.94bfd8d6cc8bbbd4ca71.jpg",
     "index.html": "/DesignerReact/index.html",
-    "main.80f3e4d9.css.map": "/DesignerReact/static/css/main.80f3e4d9.css.map",
-    "main.b487e7ef.js.map": "/DesignerReact/static/js/main.b487e7ef.js.map",
+    "main.5f129af1.css.map": "/DesignerReact/static/css/main.5f129af1.css.map",
+    "main.7687c2a6.js.map": "/DesignerReact/static/js/main.7687c2a6.js.map",
     "787.28cb0dcd.chunk.js.map": "/DesignerReact/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f3e4d9.css",
-    "static/js/main.b487e7ef.js"
+    "static/css/main.5f129af1.css",
+    "static/js/main.7687c2a6.js"
   ]
 }
